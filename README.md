@@ -11,6 +11,7 @@ The challenge itselfs was straight-forward and honestly SQL seems pretty straigh
 The second part was to filter out those to those employees who have had 2 titles to just their most recent and to remove duplicates of the same employee who has changed titles over the years. ![image2](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable%201-2.png) 
 
 Then we figure out how many of each title are going to retire in the near future which looked like the following. ![image3](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable1-3.png) 
-The code for all of deliverable 1 looks as follows and will return all of the results including adding the tables to the database. ![image4](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable1-4.png)
+The code for all of deliverable 1 looks as follows and will return all of the results including adding the tables to the database.
+![image4](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable1-4.png)
 
 ## Summary
