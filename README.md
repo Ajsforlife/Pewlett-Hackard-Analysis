@@ -15,9 +15,11 @@ The code for all of deliverable 1 looks as follows and will return all of the re
 
 ![image4](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable1-4.png)
 Next we go onto the mentoryship eligibility program which shows which employees are eligible to be part of the mentorship program to im assuming train the newly hired employees. This was probably the most intricate part of the code however still much easier then python. the output of the table is as follows. 
+
 ![image5](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable%202.png)
 
 And the code should look similar to this:
+
 ![image6](https://github.com/Ajsforlife/Pewlett-Hackard-Analysis/blob/main/pictures-challenge/deliverable%202-2.png)
 
 Which will provide the table and create a new table in the database.
